@@ -13,28 +13,29 @@ This program offers English training set and testing set for clustering, the for
 In the examples above, **label**3 indicate the label of the text "rick denzien rick denzien is a songwriter singer and studio technician from buffalo new york". There is no need to know the exact meaning of **label**3, because it won't affect the final result.
 
 # Program Requirement
-####Algorithm Design
+#### Algorithm Design
 Develop three algorithm models about fastText, CNN and LSTM respectively, based on ThsorFlow or Pytorch.
 
-####Outcome Evaluation
+#### Outcome Evaluation
 The accuracy should larger than 85%.
 The F1 value should not be less than 0.8.
 
-####Code Submission
+#### Code Submission
 All of the code should be submit on GitHub with lucid introduction.
 
+# Program Report
 
-## Basic Information
+#### Basic Information
 
 
-## fastText
+#### fastText
 [reference link](https://github.com/facebookresearch/fastText)
 
 
-## CNN
+#### CNN
 [reference link](https://github.com/gaussic/text-classification-cnn-rnn)
 
 
-## LSTM
+#### LSTM
 
 
