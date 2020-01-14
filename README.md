@@ -2,7 +2,7 @@
 fastText, CNN, LSTM model based on TensorFlow or Pytorch
 
 # Introduction
-This program offers English training set and testing set for clustering, the format of the data are as follows：
+This program offers English training set and testing set for clustering, the format of the data are as follows:
 
 **label**3 rick denzien rick denzien is a songwriter singer and studio technician from buffalo new york .
 **label**14 talking to strange men talking to strange men is a 1987 novel by british writer ruth rendell .
