@@ -1,4 +1,4 @@
-# MengProgram1
+# Program1
 fastText, CNN, LSTM model based on TensorFlow or Pytorch
 
 # Introduction
