@@ -2,7 +2,7 @@
 fastText, CNN, LSTM model based on TensorFlow or Pytorch
 
 # Introduction
-This program offers English training set and testing set for clustering, the format og the data are：
+This program offers English training set and English testing set for clustering, the format of the data is as follows:
 
 **label**3 rick denzien rick denzien is a songwriter singer and studio technician from buffalo new york .
 **label**14 talking to strange men talking to strange men is a 1987 novel by british writer ruth rendell .
@@ -10,7 +10,7 @@ This program offers English training set and testing set for clustering, the for
 **labe**l5 gino matrundola gino matrundola ( born july 21 1940 ) is a former politician in ontario canada .
 ······
 
-In the examples above, **label**3 indicate the label of the text "rick denzien rick denzien is a songwriter singer and studio technician from buffalo new york". There is no need to know the exact meaning of **label**3, because it won't affect the final result.
+In the examples above, "**label**3" indicates the label of the text "rick denzien rick denzien is a songwriter singer and studio technician from buffalo new york". There is no need to know the exact meaning of **label**3, because it won't affect the final result.
 
 # Requirement
 #### Algorithm Design
