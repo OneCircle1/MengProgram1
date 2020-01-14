@@ -1,7 +1,7 @@
 # MengProgram1
 fastText, CNN, LSTM model based on TensorFlow or Pytorch
 
-# Program Introduction
+# Introduction
 This program offers English training set and testing set for clustering, the format og the data are：
 
 **label**3 rick denzien rick denzien is a songwriter singer and studio technician from buffalo new york .
@@ -12,7 +12,7 @@ This program offers English training set and testing set for clustering, the for
 
 In the examples above, **label**3 indicate the label of the text "rick denzien rick denzien is a songwriter singer and studio technician from buffalo new york". There is no need to know the exact meaning of **label**3, because it won't affect the final result.
 
-# Program Requirement
+# Requirement
 #### Algorithm Design
 Develop three algorithm models about fastText, CNN and LSTM respectively, based on ThsorFlow or Pytorch.
 
@@ -23,7 +23,7 @@ The F1 value should not be less than 0.8.
 #### Code Submission
 All of the code should be submit on GitHub with lucid introduction.
 
-# Program Report
+# Report
 
 #### Basic Information
 
