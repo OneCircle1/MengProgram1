@@ -12,4 +12,5 @@ Make sure the path name of training file and testing file have been modified in 
 
 Run fastText.py.
 
-
+# Question
+In test result, precision and recall are often the same.
