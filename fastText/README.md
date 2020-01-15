@@ -8,8 +8,8 @@ Install python3.
 
 Install fastText.
 
-Make sure the path name of training file and testing file are modified in the python file.
+Make sure the path name of training file and testing file have been modified in fastText.py.
 
-Run python file.
+Run fastText.py.
 
 
