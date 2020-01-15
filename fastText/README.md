@@ -3,7 +3,7 @@ Implementation of text classification models using fastText.
 
 [The GitHub link of fastText](https://github.com/facebookresearch/fastText)
 
-# Preparation
+# Instruction
 Install python3.
 
 Install fastText.
